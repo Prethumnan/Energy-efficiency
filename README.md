@@ -3,6 +3,7 @@
 An interesting fact is that the unique value of the data are not so many,
 
 X1 Relative Compactness has 12 possible values
+
 X2 Surface Area has 12 possible values
 X3 Wall Area has 7 possible values
 X4 Roof Area has 4 possible values
